@@ -67,4 +67,4 @@ pagehelper:
     params: count=countSql
     returnPageInfo: check
 
-company: hand
+company: hand-config
