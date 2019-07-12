@@ -1,6 +1,1 @@
-spring:
-    mail:
-      host: smtp.163.com
-      username: firstmetcs@163.com
-      password: fancs961128
-      port: 25
+port: 25
