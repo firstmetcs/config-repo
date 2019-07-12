@@ -67,3 +67,4 @@ pagehelper:
     params: count=countSql
     returnPageInfo: check
 
+company: hand
