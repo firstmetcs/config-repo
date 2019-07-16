@@ -68,4 +68,4 @@ pagehelper:
     returnPageInfo: check
 
 #test string for config server
-testString: handV4.0
+testString: handV5.0
